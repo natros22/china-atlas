@@ -5,14 +5,10 @@ and Shenzhen (SZSE) stock exchanges, combining Python data scraping, DAX modelli
 and geospatial analysis.
 
 ## Report Preview
-
-### Labor Intelligence
 ![Labor Intelligence](1.png)
 
-### Business Directory
 ![Business Directory](2.png)
 
-### Market Analysis - Margin Benchmarking
 ![Market Analysis](3.png)
 
 ## Data Sources
