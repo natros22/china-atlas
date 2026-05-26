@@ -23,4 +23,4 @@ and geospatial analysis.
 
 ## Disclaimer
 This report was developed for academic purposes only. All data is sourced from 
-publicly available information. It does not constitute financial or investment advice.
+publicly available information.
